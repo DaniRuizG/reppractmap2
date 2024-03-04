@@ -1,0 +1,28 @@
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.exe
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.deps.json
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.runtimeconfig.json
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.dll
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.pdb
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.AssemblyInfoInputs.cache
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.AssemblyInfo.cs
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.dll
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\refint\Trabajo 1.dll
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.pdb
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.genruntimeconfig.cache
+C:\Users\Cesar\source\repos\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\ref\Trabajo 1.dll
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.exe
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.deps.json
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.runtimeconfig.json
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.dll
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\bin\Debug\net6.0\Trabajo 1.pdb
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.AssemblyInfoInputs.cache
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.AssemblyInfo.cs
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.csproj.CoreCompileInputs.cache
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.dll
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\refint\Trabajo 1.dll
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.pdb
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\Trabajo 1.genruntimeconfig.cache
+C:\Users\Dani Ruiz\Desktop\Trabajo 1 FP\Trabajo 1\obj\Debug\net6.0\ref\Trabajo 1.dll
